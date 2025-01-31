@@ -1,2 +1,0 @@
-# FIREWALL simulation in Python
- 
